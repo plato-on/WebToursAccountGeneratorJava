@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WebToursAccountGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebToursAccountGenerator_jar</output-path>
+    <root id="archive" name="WebToursAccountGenerator_jar.jar">
+      <element id="module-output" name="WebToursAccountGenerator" />
+    </root>
+  </artifact>
+</component>

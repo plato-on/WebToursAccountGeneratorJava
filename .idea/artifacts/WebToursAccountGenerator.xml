@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx-preloader" name="WebToursAccountGenerator">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebToursAccountGenerator</output-path>
+    <root id="archive" name="WebToursAccountGenerator.jar">
+      <element id="archive" name="WebToursAccountGenerator.jar">
+        <element id="module-output" name="WebToursAccountGenerator" />
+      </element>
+    </root>
+  </artifact>
+</component>
